@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class OSProcess {
     public static void main(String[] args) {
-
+        // simple process
         try {
             System.out.println("Enter software you use to open");
             Scanner sc = new Scanner(System.in);
